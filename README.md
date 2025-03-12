@@ -16,5 +16,4 @@ This project showcases a 2.1-channel class D amplifier design with a separate ba
 
 * Interective BOM File
 <a href="InteractiveBOM_PCB1_2025-3-12.html"
-taret="_blank">Open Interective BOM</
-a>
+taret="_blank">Open Interective BOM</a>
