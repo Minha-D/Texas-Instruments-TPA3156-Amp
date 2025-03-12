@@ -9,3 +9,12 @@ This project showcases a 2.1-channel class D amplifier design with a separate ba
 
 
 # Because it's my first project there might be some errors or room for imrovment feel free to use or contrbute in this project :) peace
+
+![PCB TOP](sm_black_top.png)
+
+![PCB BOTTOM](sm_black_bottom.png)
+
+* Interective BOM File
+<a href="InteractiveBOM_PCB1_2025-3-12.html"
+taret="_blank">Open Interective BOM</
+a>
