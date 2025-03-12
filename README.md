@@ -14,6 +14,4 @@ This project showcases a 2.1-channel class D amplifier design with a separate ba
 
 ![PCB BOTTOM](sm_black_bottom.png)
 
-* Interective BOM File
-<a href="InteractiveBOM_PCB1_2025-3-12.html"
-taret="_blank">Open Interective BOM</a>
+[Open Interactive BOM](https://minha-d.github.io/Texas-Instruments-TPA3156-Amp/)
